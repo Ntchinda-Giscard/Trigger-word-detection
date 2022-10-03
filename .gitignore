@@ -1,0 +1,11 @@
+__pycache__
+images
+models
+raw_data
+XY_dev
+XY_train
+chime_output.wav
+insert_test.wav
+tmp.wav
+train.wav
+.DS_Store
