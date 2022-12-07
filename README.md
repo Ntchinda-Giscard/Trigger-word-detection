@@ -11,7 +11,7 @@ In this week's videos, you learned about applying deep learning to speech recogn
 
 <img src="images/sound.png" style="width:1000px;height:150px;">
 
-In this assignment you will learn to: 
+In this project you will learn to: 
 - Structure a speech recognition project
 - Synthesize and process audio recordings to create train/dev datasets
 - Train a trigger word detection model and make predictions
@@ -19,10 +19,9 @@ In this assignment you will learn to:
 Let's get started!
 
 ## Trigger Word Detection
+ 
 
-Welcome to the second and last programming assignment of Week 3! 
-
-In this week's videos, you learned about applying deep learning to speech recognition. In this assignment, you will construct a speech dataset and implement an algorithm for trigger word detection (sometimes also called keyword detection, or wake word detection). 
+We will construct a speech dataset and implement an algorithm for trigger word detection (sometimes also called keyword detection, or wake word detection). 
 
 * Trigger word detection is the technology that allows devices like Amazon Alexa, Google Home, Apple Siri, and Baidu DuerOS to wake up upon hearing a certain word.  
 * For this exercise, our trigger word will be "activate". Every time it hears you say "activate", it will make a "chiming" sound. 
@@ -38,15 +37,6 @@ In this assignment you will learn to:
 
 Let's get started!
 
-## Important Note on Submission to the AutoGrader
-
-Before submitting your assignment to the AutoGrader, please make sure you are not doing the following:
-
-1. You have not added any _extra_ `print` statement(s) in the assignment.
-2. You have not added any _extra_ code cell(s) in the assignment.
-3. You have not changed any of the function parameters.
-4. You are not using any global variables inside your graded exercises. Unless specifically instructed to do so, please refrain from it and use the local variables instead.
-5. You are not changing the assignment code where it is not required, like creating _extra_ variables.
 
 If you do any of the following, you will get something like, `Grader not found` (or similarly unexpected) error upon submitting your assignment. Before asking for help/debugging the errors in your assignment, check for these first. If this is the case, and you don't remember the changes you have made, you can get a fresh copy of the assignment by following these [instructions](https://www.coursera.org/learn/nlp-sequence-models/supplement/qHIve/h-ow-to-refresh-your-workspace).
 
